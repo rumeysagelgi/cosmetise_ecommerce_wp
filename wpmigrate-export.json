@@ -1,0 +1,1 @@
+{"name":"COSMETISE","domain":"https://cosmetise.shop","path":"/wordpress/core/6.2.2","wpVersion":"6.2.2","services":{"php":{"name":"php","version":"8.0.29"},"mariadb":{"name":"mariadb","version":"10.4.25-MariaDB-log"},"nginx":{"name":"nginx"}},"wpMigrate":{"version":"2.6.8"}}

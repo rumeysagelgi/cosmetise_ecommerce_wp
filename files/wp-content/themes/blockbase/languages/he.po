@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blockbase\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-21T01:28:20+00:00\n"
+"PO-Revision-Date: 2021-12-18 20:07:12+0000\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "ענק"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "רק כותרת עליונה וכותרת תחתונה"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "ללא תוכן"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "רקע"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "שלישוני"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "ראשי"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr "רק כותרת תחתונה"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "קדמה"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "משני"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Headings (System Font)"
+msgstr "כותרות (גופן מערכת)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (System Font)"
+msgstr "תוכן (גופן מערכת)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "רגיל"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "בינוני"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "גדול"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "קטן"
+
+#: inc/patterns/404.php:9
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/wp-customize-fonts.php:318
+msgid "Your theme needs to be updated before you can customize fonts"
+msgstr "יש לעדכן את ערכת העיצוב שלך לפני שיהיה ניתן להתאים אישית גופנים"
+
+#: inc/block-styles.php:48
+msgid "With category icon"
+msgstr "עם צלמית (אייקון) הקטגוריה"
+
+#: inc/block-styles.php:40
+msgid "With tag icon"
+msgstr "עם צלמית (אייקון) התגית"
+
+#: inc/block-styles.php:24
+#: inc/block-styles.php:32
+msgid "With icon"
+msgstr "עם צלמית (אייקון)"
+
+#: functions.php:37
+msgid "Social Navigation"
+msgstr "תפריט מדיה חברתית"
+
+#: inc/customizer/wp-customize-fonts.php:296
+msgid "Fonts"
+msgstr "גופנים"
+
+#: inc/customizer/wp-customize-fonts.php:394
+msgid "Body font"
+msgstr "גופן לגוף העמוד"
+
+#. Description of the theme
+msgid "Blockbase is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful."
+msgstr "ערכת העיצוב Blockbase היא ערכת עיצוב פשוטה שתומכת בעריכת אתר מלאה. הערכה מגיעה עם כמה תבניות מינימליסטיות ועם הגדרות עיצוב שניתן לערוך באמצעות סגנונות גלובליים. זאת ערכה לבנות איתה דברים יפים."
+
+#: inc/customizer/wp-customize-fonts.php:395
+msgid "Heading font"
+msgstr "גופן כותרת"
+
+#: inc/customizer/wp-customize-fonts.php:388
+msgid "Reset to Default"
+msgstr "חזרה לברירת המחדל"
+
+#: inc/customizer/wp-customize-fonts.php:295
+msgid "Font Customization for %1$s"
+msgstr "התאמה אישית של פונטים עבור %1$s"
+
+#: inc/customizer/wp-customize-colors.php:121
+msgid "Colors"
+msgstr "צבעים"
+
+#: inc/customizer/wp-customize-colors.php:120
+msgid "Color Customization for %1$s"
+msgstr "התאמה אישית של צבעים עבור %1$s"
+
+#: inc/customizer/wp-customize-color-palettes.php:80
+msgid "Choose a color scheme for your website."
+msgstr "בחירה של ערכת צבעים עבור האתר שלך."
+
+#: inc/customizer/wp-customize-color-palettes.php:79
+msgid "Color Scheme"
+msgstr "ערכת צבעים"
+
+#: inc/patterns/404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה כי אין כאן כלום. אולי כדאי לנסות את אפשרות החיפוש."
+
+#: functions.php:36
+msgid "Primary Navigation"
+msgstr "ניווט ראשי"
+
+#: inc/patterns/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "אופס. העמוד שביקשת לא נמצא."

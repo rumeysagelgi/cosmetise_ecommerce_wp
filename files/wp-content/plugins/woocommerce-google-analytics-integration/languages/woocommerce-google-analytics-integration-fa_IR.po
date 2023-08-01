@@ -1,0 +1,163 @@
+# Translation of Plugins - WooCommerce Google Analytics Integration - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - WooCommerce Google Analytics Integration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-25 12:46:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - WooCommerce Google Analytics Integration - Stable (latest release)\n"
+
+#: includes/class-wc-google-analytics.php:174
+msgid "Use Global Site Tag"
+msgstr "استفاده از برچسب سراسری سایت"
+
+#: includes/class-wc-google-analytics.php:157
+msgid "Google Analytics Tracking ID"
+msgstr "شناسه ردگیری گوگل آنالیتیکس"
+
+#. translators: 1: href link to GA pro
+#: woocommerce-google-analytics-integration.php:202
+msgid "Add advanced tracking for your sales funnel, coupons and more. [<a href=\"%s\" target=\"_blank\">Learn more</a> &gt;]"
+msgstr "ردیابی پیشرفته را برای توجه در فروش، کوپن ها و موارد دیگر اضافه کنید. [<a href=\"%s\" target=\"_blank\">بیشتر بیاموزید</a> &gt;] "
+
+#: woocommerce-google-analytics-integration.php:199
+msgid "Get detailed insights into your sales with Google Analytics Pro"
+msgstr "با Google Analytics Pro، اطلاعات دقیقی از فروش خود دریافت کنید"
+
+#: includes/class-wc-google-analytics.php:223
+msgid "Track 404 (Not found) Errors"
+msgstr "ردگیری خطای 404 (صفحه ناموجود) "
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#: woocommerce-google-analytics-integration.php:111
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: woocommerce-google-analytics-integration.php:110
+msgid "Settings"
+msgstr "پیکربندی"
+
+#: includes/class-wc-google-analytics.php:492
+msgid "ID:"
+msgstr "شناسه:"
+
+#: includes/class-wc-google-analytics.php:207
+msgid "Use Enhanced Link Attribution"
+msgstr "از لینک پیشرفته استفاده کنید"
+
+#: includes/class-wc-google-analytics.php:199
+msgid "\"Display Advertising\" Support"
+msgstr "پشتیبانی از \"نمایش آگهی\""
+
+#: includes/class-wc-google-analytics.php:296
+msgid "Product Detail Views"
+msgstr "نمایش جزئیات محصول"
+
+#: includes/class-wc-google-analytics.php:288
+msgid "Product Clicks from Listing Pages"
+msgstr "کلیک محصولات از لیست برگه ها"
+
+#: includes/class-wc-google-analytics.php:321
+msgid "Please note, for transaction tracking to work properly, you will need to use a payment gateway that redirects the customer back to a WooCommerce order received/thank you page."
+msgstr "لطفاً توجه داشته باشید، برای اینکه ردیابی تراکنش به درستی کار کند، باید از درگاه پرداختی استفاده کنید که مشتری را به صفحه دریافت سفارش/تشکر ووکامرس هدایت می کند. "
+
+#: includes/class-wc-google-analytics.php:317
+msgid "Please allow Google Analytics 24 hours to start displaying results."
+msgstr "لطفاً به گوگل آنالیتیکس 24 ساعت فرصت دهید تا نتایج را نمایش دهد."
+
+#: includes/class-wc-google-analytics.php:304
+msgid "Checkout Process Initiated"
+msgstr "فرآیند پرداخت آغاز شد "
+
+#: includes/class-wc-google-analytics.php:280
+msgid "Product Impressions from Listing Pages"
+msgstr "نرخ کلیک (Impressions) محصول از لیست صفحات"
+
+#: includes/class-wc-google-analytics.php:272
+msgid "Remove from Cart Events"
+msgstr "حذف از رویدادهای سبد خرید"
+
+#: includes/class-wc-google-analytics.php:238
+msgid "Add to Cart Events"
+msgstr "رویدادهای افزودن به سبدخرید"
+
+#: includes/class-wc-google-analytics.php:232
+msgid "This requires a payment gateway that redirects to the thank you/order received page after payment. Orders paid with gateways which do not do this will not be tracked."
+msgstr "این عمل به یک درگاه پرداخت نیاز دارد که پس از پرداخت به صفحه تشکر/سفارش دریافتی هدایت شود. سفارشات پرداخت شده با درگاه هایی که این کار را انجام نمی دهند ردیابی نمی شوند. "
+
+#: includes/class-wc-google-analytics.php:231
+msgid "Purchase Transactions"
+msgstr "تراکنش پرداخت"
+
+#: includes/class-wc-google-analytics.php:215
+msgid "Anonymize IP addresses"
+msgstr "آدرس های IP را ناشناس کنید "
+
+#: includes/class-wc-google-analytics.php:260
+msgid "Enable Enhanced eCommerce "
+msgstr "فعال سازی تجارت الکترونیک پیشرفته"
+
+#: includes/class-wc-google-analytics.php:259
+msgid "Enhanced eCommerce"
+msgstr "تجارت الکترونیک پیشرفته"
+
+#: includes/class-wc-google-analytics.php:183
+msgid "Enable Universal Analytics"
+msgstr "فعال سازی Universal Analytics"
+
+#: includes/class-wc-google-analytics.php:173
+msgid "Tracking Options"
+msgstr "تنظیمات ردیابی"
+
+#: includes/class-wc-google-analytics.php:192
+msgid "Enable Standard Tracking"
+msgstr "فعال سازی ردیابی استاندارد"
+
+#: includes/class-wc-google-analytics.php:193
+msgid "This tracks session data such as demographics, system, etc. You don't need to enable this if you are using a 3rd party Google analytics plugin."
+msgstr "این داده‌های نشست مانند جمعیت‌شناسی، سیستم، و غیره را ردیابی می‌کند. اگر از افزونه 3rd party Google analytics استفاده می‌کنید، نیازی به فعال کردن آن ندارید. "
+
+#: includes/class-wc-google-analytics.php:491
+#: includes/class-wc-google-analytics.php:568 assets/js/build/actions.js:1
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+#: includes/class-wc-google-analytics.php:490
+#: includes/class-wc-google-analytics.php:567
+msgid "Products"
+msgstr "محصولات"
+
+#: includes/class-wc-google-analytics.php:65
+msgid "Google Analytics"
+msgstr "گوگل آنالیتیکس"
+
+#: includes/class-wc-google-analytics.php:66
+msgid "Google Analytics is a free service offered by Google that generates detailed statistics about the visitors to a website."
+msgstr "گوگل آنالیتیکس یک سرویس رایگان ارائه شده توسط گوگل می باشد که میتواند اطلاعاتی درباره بازدیدکنندگان به یک وب سایت ارائه دهد."
+
+#: includes/class-wc-google-analytics.php:164
+msgid "Set Domain Name"
+msgstr "تنظیم نام دامنه"
+
+#. Description of the plugin
+msgid "Allows Google Analytics tracking code to be inserted into WooCommerce store pages."
+msgstr "اجازه به کد ردیابی گوگل آنالیتیکس برای جایگیری در صفحات فروشگاه ووکامرس."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-google-analytics-integration/"
+msgstr "https://wordpress.org/plugins/woocommerce-google-analytics-integration/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Google Analytics Integration"
+msgstr "اتصال ووکامرس به گوگل آنالیتیکس"
+
+#. Author of the plugin
+msgid "WooCommerce"
+msgstr "ووکامرس"

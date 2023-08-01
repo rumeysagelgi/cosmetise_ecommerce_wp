@@ -1,0 +1,44 @@
+<wpml-config>
+	<gutenberg-blocks>
+	    <gutenberg-block type="greenshift-blocks/heading" translate="1" label="Advanced heading">
+			<xpath>//*[contains(@class, 'gspb_heading')]</xpath>
+	        <key name="text" />
+	        <key name="textbefore" />
+	        <key name="textafter" />
+	        <key name="headingContent" />
+	        <key name="customAnchor" />
+	        <key name="subTitle" />
+			<key name="animatedText">
+				<key name="*" />
+			</key>
+	    </gutenberg-block>
+		<gutenberg-block type="greenshift-blocks/text" translate="1" label="Advanced text">
+			<xpath>//*[contains(@class, 'gspb_text')]</xpath>
+	        <key name="text" />
+	        <key name="textContent" />
+	        <key name="customAnchor" />
+	    </gutenberg-block>
+		<gutenberg-block type="greenshift-blocks/button" translate="1" label="Advanced Button">
+			<xpath>//*[contains(@class, 'gspb_button_wrapper')]</xpath>
+	        <key name="buttonContent" />
+	        <key name="label" />
+	        <key name="buttonLink" />
+	        <key name="customAnchor" />
+	        <key name="closeLabel" />
+	        <key name="openLabel" />
+	    </gutenberg-block>
+		<gutenberg-block type="greenshift-blocks/meta" translate="1" label="Meta getter ">
+			<xpath>//*[contains(@class, 'gspb_meta')]</xpath>
+	        <key name="prefix" />
+	        <key name="postfix" />
+	    </gutenberg-block>
+		<gutenberg-block type="greenshift-blocks/iconlist" translate="1" label="Advanced List">
+			<xpath>//*[contains(@class, 'gspb_iconsList')]</xpath>
+	        <key name="iconsList">
+				<key name="*">
+					<key name="content" />
+				</key>				
+			</key>
+	    </gutenberg-block>
+	</gutenberg-blocks>
+</wpml-config>

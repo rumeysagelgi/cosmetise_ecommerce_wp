@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blockbase\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-10T01:35:20+00:00\n"
+"PO-Revision-Date: 2021-11-25 01:32:47+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/patterns/404.php:9
+msgid "404"
+msgstr "404"
+
+#: inc/block-styles.php:48
+msgid "With category icon"
+msgstr "Dengan ikon kategori"
+
+#: inc/block-styles.php:40
+msgid "With tag icon"
+msgstr "Dengan ikon tag"
+
+#: inc/block-styles.php:24
+#: inc/block-styles.php:32
+msgid "With icon"
+msgstr "Dengan ikon"
+
+#: functions.php:37
+msgid "Social Navigation"
+msgstr "Navigasi Media Sosial"
+
+#: inc/customizer/wp-customize-fonts.php:290
+msgid "Fonts"
+msgstr "Font"
+
+#. Description of the theme
+msgid "Blockbase is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful."
+msgstr "Blockbase adalah tema sederhana yang mendukung pengeditan situs penuh. Tema berikut memiliki satu set template minimal dan pengaturan desain yang dapat dimanipulasi melalui Global Styles. Gunakan Blockbase untuk membangun sesuatu yang indah."
+
+#: inc/customizer/wp-customize-fonts.php:389
+msgid "Heading font"
+msgstr "Font judul"
+
+#: inc/customizer/wp-customize-fonts.php:388
+msgid "Body font"
+msgstr "Font badan"
+
+#: inc/customizer/wp-customize-fonts.php:382
+msgid "Reset to Default"
+msgstr "Setel ulang ke Standar"
+
+#: inc/customizer/wp-customize-fonts.php:289
+msgid "Font Customization for %1$s"
+msgstr "Penyesuaian Font untuk %1$s"
+
+#: inc/customizer/wp-customize-colors.php:121
+msgid "Colors"
+msgstr "Warna"
+
+#: inc/customizer/wp-customize-colors.php:120
+msgid "Color Customization for %1$s"
+msgstr "Penyesuaian Warna untuk %1$s"
+
+#: inc/customizer/wp-customize-color-palettes.php:80
+msgid "Choose a color scheme for your website."
+msgstr "Pilih skema warna untuk situs web Anda."
+
+#: inc/customizer/wp-customize-color-palettes.php:79
+msgid "Color Scheme"
+msgstr "Skema Warna"
+
+#: inc/patterns/404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Tidak ditemukan apa pun di sini. Silakan gunakan pencarian."
+
+#: functions.php:36
+msgid "Primary Navigation"
+msgstr "Navigasi Utama"
+
+#: inc/patterns/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Maaf! Laman tidak dapat ditemukan."

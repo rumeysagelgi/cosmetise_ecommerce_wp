@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Blockbase\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-10T01:34:46+00:00\n"
+"PO-Revision-Date: 2021-11-25 01:32:47+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/patterns/404.php:9
+msgid "404"
+msgstr "404"
+
+#: inc/block-styles.php:48
+msgid "With category icon"
+msgstr "مع أيقونة فئات"
+
+#: inc/block-styles.php:40
+msgid "With tag icon"
+msgstr "مع أيقونة وسوم"
+
+#: inc/block-styles.php:24
+#: inc/block-styles.php:32
+msgid "With icon"
+msgstr "مع أيقونة"
+
+#: functions.php:37
+msgid "Social Navigation"
+msgstr "أيقونات مواقع التواصل الإجتماعي"
+
+#: inc/customizer/wp-customize-fonts.php:290
+msgid "Fonts"
+msgstr "الخطوط"
+
+#. Description of the theme
+msgid "Blockbase is a simple theme that supports full-site editing. It comes with a set of minimal templates and design settings that can be manipulated through Global Styles. Use it to build something beautiful."
+msgstr "Blockbase هو قالب بسيط يدعم تحرير الموقع بالكامل. يأتي مزودًا بمجموعة من القوالب وإعدادات التصميم التي يمكن التحكم فيها من خلال الأنماط العالمية. استخدمه لبناء شيء جميل."
+
+#: inc/customizer/wp-customize-fonts.php:389
+msgid "Heading font"
+msgstr "خط العنوان"
+
+#: inc/customizer/wp-customize-fonts.php:388
+msgid "Body font"
+msgstr "خط النص الأساسي"
+
+#: inc/customizer/wp-customize-fonts.php:382
+msgid "Reset to Default"
+msgstr "إعادة تعيين إلى الإعدادات الافتراضية"
+
+#: inc/customizer/wp-customize-fonts.php:289
+msgid "Font Customization for %1$s"
+msgstr "تخصيص خط %1$s"
+
+#: inc/customizer/wp-customize-colors.php:121
+msgid "Colors"
+msgstr "ألوان"
+
+#: inc/customizer/wp-customize-colors.php:120
+msgid "Color Customization for %1$s"
+msgstr "تخصيص ألوان %1$s"
+
+#: inc/customizer/wp-customize-color-palettes.php:80
+msgid "Choose a color scheme for your website."
+msgstr "اختر نظام ألوان لموقعك الإلكتروني."
+
+#: inc/customizer/wp-customize-color-palettes.php:79
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+#: inc/patterns/404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لا يوجد شيء هنا. ما لا تجرّب البحث؟"
+
+#: functions.php:36
+msgid "Primary Navigation"
+msgstr "عنوان القائمة الرئيسية"
+
+#: inc/patterns/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لا يمكن العثور على هذه الصفحة."

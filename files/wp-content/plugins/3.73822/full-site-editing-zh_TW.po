@@ -1,0 +1,518 @@
+# Translation of Plugins - WordPress.com Editing Toolkit - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WordPress.com Editing Toolkit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-12 09:54:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WordPress.com Editing Toolkit - Stable (latest release)\n"
+
+#. translators: %s - documentation URL.
+#: wpcom-global-styles/index.php:482
+msgid "Your site includes <a href=\"%s\" target=\"_blank\">customized styles</a> that are only visible to visitors after upgrading to the Personal plan or higher."
+msgstr "你的網站包含自訂樣式，必須<a href=\"%s\" target=\"_blank\">升級為個人版或更高級方案</a>，才能向訪客顯示這些樣式。"
+
+#: block-patterns/class-block-patterns-from-api.php:122
+msgid "Image Gallery"
+msgstr "圖庫"
+
+#: wpcom-global-styles/index.php:525
+#: wpcom-global-styles/dist/wpcom-global-styles.js:1794
+#: wpcom-global-styles/notices.js:155
+msgid "Remove custom styles"
+msgstr "移除自訂樣式"
+
+#: wpcom-domain-upsell-callout/dist/wpcom-domain-upsell-callout.js:1679
+#: wpcom-domain-upsell-callout/src/domain-upsell-callout.jsx:71
+msgid "Customize"
+msgstr "自訂"
+
+#: wpcom-domain-upsell-callout/dist/wpcom-domain-upsell-callout.js:1677
+#: wpcom-domain-upsell-callout/src/domain-upsell-callout.jsx:68
+msgid "Customize your domain"
+msgstr "自訂你的網域"
+
+#: wpcom-global-styles/index.php:515
+#: wpcom-global-styles/dist/wpcom-global-styles.js:1778
+#: wpcom-global-styles/notices.js:136
+msgid "Upgrade now"
+msgstr "立即升級"
+
+#: wpcom-global-styles/index.php:541
+msgid "Upgrade required"
+msgstr "需要升級"
+
+#: wpcom-global-styles/index.php:538
+msgid "Upgrade"
+msgstr "升級"
+
+#. translators: %s - documentation URL.
+#: wpcom-global-styles/index.php:491
+msgid "Your site includes <a href=\"%s\" target=\"_blank\">customized styles</a> that are only visible to visitors after upgrading to the Premium plan or higher."
+msgstr "你的網站包含<a href=\"%s\" target=\"_blank\">自訂樣式</a>，該樣式必須升級為進階版或更高級方案，才能向訪客顯示。"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:1348
+#: newspack-blocks/dist/blog-posts-block-editor.js:5803
+#: newspack-blocks/dist/carousel-block-editor.js:5501
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:77
+msgid "Scheduled"
+msgstr "已排程"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:1347
+#: newspack-blocks/dist/blog-posts-block-editor.js:5802
+#: newspack-blocks/dist/carousel-block-editor.js:5500
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:77
+msgid "Draft"
+msgstr "草稿"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:1314
+msgid "Jetpack donations is disabled in favour of Newspack donations."
+msgstr "為使用 Newspack 捐款而停用 Jetpack 捐款。"
+
+#: wpcom-global-styles/index.php:530
+msgid "Preview custom styles"
+msgstr "預覽自訂樣式"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:7748
+#: wpcom-block-editor-nux/src/video-celebration-modal/index.jsx:80
+msgid "Feel free to keep editing your homepage, or continue and launch your site."
+msgstr "歡迎繼續編輯首頁，或繼續下一步並啟動網站。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:7757
+#: wpcom-block-editor-nux/src/video-celebration-modal/index.jsx:94
+msgid "Continue and launch"
+msgstr "繼續並啟動"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:7752
+#: wpcom-block-editor-nux/src/video-celebration-modal/index.jsx:87
+msgid "Keep editing"
+msgstr "繼續編輯"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:7747
+#: wpcom-block-editor-nux/src/video-celebration-modal/index.jsx:79
+msgid "You’ve added your first video!"
+msgstr "你新增了第一個影片！"
+
+#: wpcom-global-styles/api/class-global-styles-status-rest-api.php:53
+msgid "Your user is not permitted to access this resource."
+msgstr "你的使用者無法存取此資源。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:6701
+#: wpcom-block-editor-nux/src/purchase-notice/index.jsx:19
+msgid "Congrats! Premium blocks are now available to use."
+msgstr "恭喜！ 進階版區塊已可使用。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:6832
+#: wpcom-block-editor-nux/src/seller-celebration-modal/index.jsx:119
+msgid "View your product"
+msgstr "檢視商品"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:6823
+#: wpcom-block-editor-nux/src/seller-celebration-modal/index.jsx:110
+msgid "Preview your product on your site before launching and sharing with others."
+msgstr "先在網站預覽商品，再推出並與他人分享。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:6822
+#: wpcom-block-editor-nux/src/seller-celebration-modal/index.jsx:109
+msgid "You've added your first product!"
+msgstr "你新增了第一個商品！"
+
+#: paragraph-block/index.php:60
+msgid "Add a post title"
+msgstr "新增文章標題"
+
+#: paragraph-block/index.php:33 paragraph-block/index.php:79
+msgid "Start writing or type '/' to insert a block"
+msgstr "開始撰寫內容或輸入斜線 (/) 以插入區塊"
+
+#: global-styles/class-global-styles.php:272
+msgid "Fonts"
+msgstr "字型"
+
+#. Translators: This is a link which opens the block editor, and then opens the
+#. global styles sidebar.
+#: global-styles/class-global-styles-fonts-message-control.php:63
+msgid "Click here to open the Block Editor and change your fonts."
+msgstr "按此處可開啟區塊編輯器並變更字型。"
+
+#. Translators: This is a link which opens:
+#. https://wordpress.com/support/custom-fonts/#changing-fonts-with-global-styles.
+#: global-styles/class-global-styles-fonts-message-control.php:40
+msgid "Learn more about changing fonts using Global Styles."
+msgstr "深入瞭解如何使用「全域樣式」變更字型。"
+
+#: global-styles/class-global-styles-fonts-message-control.php:27
+msgid "You can change your fonts using Global Styles, which can be found in the Block Editor."
+msgstr "你可以使用區塊編輯器中的「全域樣式」變更字型。"
+
+#: block-patterns/class-block-patterns-from-api.php:55
+msgid "Text"
+msgstr "文字"
+
+#. translators: separates all but the last two sponsor names; needs a space at
+#. the end.
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:916
+msgid ", "
+msgstr ","
+
+#: starter-page-templates/class-starter-page-templates.php:195
+msgid "Current"
+msgstr "最新"
+
+#: block-patterns/class-block-patterns-from-api.php:54
+msgid "Quotes"
+msgstr "引文"
+
+#. Plugin Name of the plugin
+msgid "WordPress.com Editing Toolkit"
+msgstr "WordPress.com 編輯工具組"
+
+#: mailerlite/subscriber-popup.php:116
+msgid "UUID:"
+msgstr "UUID："
+
+#. translators: link to documentation
+#: mailerlite/subscriber-popup.php:113
+msgid "Account ID <a href=\"%s\" target=\"_blank\">(instructions)</a>:"
+msgstr "帳號 ID <a href=\"%s\" target=\"_blank\">(說明)</a>:"
+
+#. translators: %1$s - URL to manage the widget, %2$s - documentation URL.
+#: mailerlite/subscriber-popup.php:42
+msgid "You need to enter your numeric account ID and UUID for the <a href=\"%1$s\">Mailerlite Widget</a> to work correctly. <a href=\"%2$s\" target=\"_blank\">Full instructions</a>."
+msgstr "你需要輸入數字帳號 ID 和 UUID，才能讓 <a href=\"%1$s\">Mailerlite Widget</a> 正常運作。<a href=\"%2$s\" target=\"_blank\">完整說明</a>。"
+
+#: mailerlite/subscriber-popup.php:20
+msgid "Display Mailerlite subscriber popup"
+msgstr "顯示 Mailerlite 訂戶快顯視窗"
+
+#: mailerlite/subscriber-popup.php:17
+msgid "Mailerlite subscriber popup"
+msgstr "Mailerlite 訂戶快顯視窗"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:340
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:368
+msgid "Play Slideshow"
+msgstr "播放投影片"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:339
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:362
+msgid "Pause Slideshow"
+msgstr "暫停播放投影片"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:279
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:294
+msgid "Previous Slide"
+msgstr "前一張"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:278
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:295
+msgid "Next Slide"
+msgstr "下一張"
+
+#. translators: %d: Slide number.
+#: newspack-blocks/synced-newspack-blocks/blocks/carousel/view.php:251
+msgid "Go to slide %d"
+msgstr "前往第 %d 張投影片"
+
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:812
+msgid "Common"
+msgstr "一般"
+
+#: starter-page-templates/class-starter-page-templates.php:190
+msgid "Blank"
+msgstr "空白頁面"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:148
+#: newspack-blocks/dist/blog-posts-block-editor.js:4502
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/edit.js:794
+msgid "Load more posts"
+msgstr "載入更多文章"
+
+#. translators: separates last two sponsor names; needs a space on either side.
+#: newspack-blocks/synced-newspack-blocks/class-newspack-blocks.php:913
+msgid " and "
+msgstr " 及 "
+
+#: block-patterns/class-block-patterns-from-api.php:117
+#: newspack-blocks/blog-posts-block-editor.js:25
+#: newspack-blocks/dist/blog-posts-block-editor.js:6193
+msgid "Blog Posts"
+msgstr "網站文章"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:249
+#: newspack-blocks/dist/blog-posts-block-editor.js:5773
+#: newspack-blocks/dist/blog-posts-block-editor.js:5795
+#: newspack-blocks/dist/carousel-block-editor.js:5471
+#: newspack-blocks/dist/carousel-block-editor.js:5493
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:30
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:67
+msgctxt "post author"
+msgid " and "
+msgstr " 及 "
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:226
+#: newspack-blocks/dist/blog-posts-block-editor.js:5766
+#: newspack-blocks/dist/carousel-block-editor.js:5464
+#: newspack-blocks/synced-newspack-blocks/shared/js/utils.js:18
+msgctxt "post author"
+msgid "by"
+msgstr "作者:"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:156
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "執行時發生錯誤。請重新整理頁面後再試一次。"
+
+#: newspack-blocks/synced-newspack-blocks/blocks/homepage-articles/view.php:153
+msgid "Loading..."
+msgstr "正在載入..."
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "WordPress 圖示"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "本站採用 WordPress 建置"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+#: common/dist/data-stores.js:5907 help-center/dist/help-center.js:56286
+msgid "Footer"
+msgstr "頁尾"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+#: common/dist/data-stores.js:5902 help-center/dist/help-center.js:56281
+msgid "Header"
+msgstr "頁首"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "已收合"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "已展開"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "選單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:398
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "聯絡方式"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:386
+msgctxt "Default page title"
+msgid "About"
+msgstr "關於"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:77
+msgid "Invalid parent type."
+msgstr "錯誤的上層類型。"
+
+#: starter-page-templates/class-starter-page-templates.php:180
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "沒有可用的範本。略過範本選取強制回應視窗。"
+
+#: starter-page-templates/class-starter-page-templates.php:175
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "沒有接收到來自縱向 API 的資料。略過範本選取強制回應視窗。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgid "Back to template part types"
+msgstr "返回 [範本組件類型]"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:502
+msgid "No template part types found."
+msgstr "找不到符合條件的範本組件類型。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:501
+msgid "Search Template Part Types"
+msgstr "搜尋範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:500
+msgid "Parent Template Part Type:"
+msgstr "上層範本組件類型:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:499
+msgid "Parent Template Part Type"
+msgstr "上層範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:498
+msgid "New Template Part Type"
+msgstr "新增範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:497
+msgid "Add New Template Part Type"
+msgstr "新增範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:496
+msgid "Update Template Part Type"
+msgstr "更新範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:495
+msgid "View Template Part Type"
+msgstr "檢視範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:494
+msgid "Edit Template Part Type"
+msgstr "編輯範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:493
+msgid "All Template Part Types"
+msgstr "全部範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:492
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:491
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:490
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Template part updated."
+msgstr "範本組件已更新。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "Template part scheduled."
+msgstr "範本組件已排程。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "Template part reverted to draft."
+msgstr "範本組件已還原為草稿。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Template part published privately."
+msgstr "範本組件已私密發佈。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "Template part published."
+msgstr "範本組件已發佈。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Template parts list"
+msgstr "範本組件清單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgid "Template parts list navigation"
+msgstr "範本組件清單檢視"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgid "Filter template parts list"
+msgstr "篩選範本組件清單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgid "No template parts found in Trash."
+msgstr "在回收桶中找不到符合條件的範本組件。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgid "No template parts found."
+msgstr "找不到符合條件的範本組件。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgid "Search Template Parts"
+msgstr "搜尋範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:444
+msgid "All Template Parts"
+msgstr "全部範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:443
+msgid "View Template Part"
+msgstr "檢視範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:442
+msgid "Edit Template Part"
+msgstr "編輯範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:441
+msgid "New Template Part"
+msgstr "新增範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:440
+msgid "Add New Template Part"
+msgstr "新增範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:438
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:437
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:436
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:435
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:439
+msgctxt "Template"
+msgid "Add New"
+msgstr "新增範本"
+
+#: posts-list-block/class-posts-list-block.php:165
+msgid "Read more"
+msgstr "閱讀全文"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:162
+msgid "Continue reading %s"
+msgstr "閱讀全文 %s"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "編輯"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "作者:"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "精選內容"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "檢視全部文章"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "目前沒有文章可供顯示。"
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "使用區塊編輯器加強頁面建置工作流程。"

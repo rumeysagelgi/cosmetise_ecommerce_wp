@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Attar\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-21T01:39:50+00:00\n"
+"PO-Revision-Date: 2022-06-30 09:26:17+0000\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Sfondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primo piano"
+
+#. Description of the theme
+msgid "Attar is a minimal, product-oriented theme."
+msgstr "Attar è un tema minimalista incentrato sui prodotti."
