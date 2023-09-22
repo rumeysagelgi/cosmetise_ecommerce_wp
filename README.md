@@ -16,7 +16,7 @@ COSMETISE is an e-commerce website where you can explore and purchase a wide ran
 -	Return and refund option
 -	Over 30+ plugins setup and maintenance
 -	Unique brand name and logo
--	Built on WordPress with PHP, powered by WooCommerce
+-	Built on WordPress, powered by WooCommerce, core language is PHP
 
 ## How to Use:
 Explore the offerings of COSMETISE by visiting the website at https://cosmetise.shop
@@ -50,6 +50,6 @@ themes : Attar theme used in this website.
 uploads : 
 - 2023 : Personally uploaded contents such as product images and brand logos
 
-
+additional_css.css :
 
 
