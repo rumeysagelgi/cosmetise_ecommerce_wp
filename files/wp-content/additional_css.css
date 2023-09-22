@@ -1,0 +1,36 @@
+/* Navbar font size */
+.menu-item {
+ 		font-size: 16px;
+}
+
+/* Navbar title-tagline color */
+.wp-block-site-title {
+	color: #3b75be;
+}
+
+.wp-block-site-tagline {
+	color: #112945;
+}
+
+/* Navbar subcategories border color */
+ul {
+	border-color: #264f81 !important;
+}
+
+/* Button background color */
+.add_to_cart_button {
+	background-color: #112945 !important;
+}
+
+.wp-element-button {
+	background-color: #112945;
+}
+
+.woocommerce-form-login__submit {
+	background-color: #112945;
+}
+
+/* About page text align */
+.about {
+	text-align: justify;
+}
