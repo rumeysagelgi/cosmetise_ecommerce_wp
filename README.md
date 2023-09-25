@@ -7,7 +7,7 @@ COSMETISE is an e-commerce website where you can explore and purchase a wide ran
 
 ## Technical Features:
 -	User authentication
--	User account / order management
+-	User account and order management
 -	Product browsing and purchase
 -	Product rating and reviewing
 -	Secure payment processing via Stripe
@@ -30,26 +30,39 @@ On `Your Account` page, you can easily see and manage your orders. If you have q
 When you visit a Product page, you will come across crucial information such as product image, title, pricing, a concise overview, a more comprehensive description, customer reviews and ratings. Additionally, you will find recommendations for related products. You also have the opportunity to share your personal insights and rating for the product, which will appear alongside your username in `Reviews` section.
 
 ## Files:
-wp-content folder:
+### `wp-content` repository:
 
-plugins : Active plugins used in functionality and improvement of the website.
-- crowdsignal-forms : The Crowdsignal Forms plugin allows you to create and manage forms and polls right from within the block editor.
-- essential-blocks | greenshift-animation-and-page-builder-blocks | gutenberg | layout-grid/blocks : Various blocks editors for WP.
-- google-listings-and-ads : Native integration with Google that allows merchants to easily display their products across Google’s network.
-- page-optimize : Optimizes JS and CSS for faster page load and render in the browser.
-- visual-footer-credit-remover : Visually remove or replace default footer credits.
-- woocommerce : Open-source eCommerce solution. Allows to retain full ownership of your store’s content and data.
-- woocommerce-gateway-stripe : Take credit card payments on your store using Stripe.
-- woocommerce-shipment-tracking : Add tracking numbers to orders allowing customers to track their orders via a link.
-- woo-refund-and-exchange-lite : Allows users to submit product refund and communicate with seller.
-- wp-google-fonts : Allows to add and customize Google fonts to your site.
-- wp-migrate-db : Allows to export full sites including media, themes, and plugins. 
+<ins>***plugins***</ins> : Active plugins in use to enhance website functionality and performance.
+
+- ***crowdsignal-forms*** : Create and manage forms directly within the block editor.
+
+- ***essential-blocks*** | ***greenshift-animation-and-page-builder-blocks*** | ***gutenberg*** | ***layout-grid/blocks*** : Various blocks editors for improving design and layout.
+
+- ***google-listings-and-ads*** : Easily display the products across Google’s network.
   
-themes : Attar theme used in this website.
+- ***page-optimize*** : Optimize JavaScript and CSS for faster page load and render in the browser.
+  
+- ***visual-footer-credit-remover*** : Visually remove or replace default footer credits.
+  
+- ***woocommerce*** : Open-source eCommerce solution that allows to maintain complete ownership of store's content and data.
+  
+- ***woocommerce-gateway-stripe*** : Accept credit and debit card payments with Stripe integration.
+  
+- ***woocommerce-shipment-tracking*** : Add tracking numbers to orders allowing customers to track their shipments.
+  
+- ***woo-refund-and-exchange-lite*** : Initiate a refund request and/or get in touch with seller.
+  
+- ***wp-google-fonts*** : Add and customize Google fonts.
+  
+- ***wp-migrate-db*** : Export full site including media, themes and plugins.
 
-uploads : 
-- 2023 : Personally uploaded contents such as product images and brand logos
 
-additional_css.css :
+<ins>***themes***</ins> : This website utilizes the theme `Attar`
 
 
+<ins>***uploads***</ins> :
+
+- ***2023*** : Uploaded content such as product images, brand logos, etc.
+
+
+<ins>***additional_css.css***</ins> : Separately written CSS code for individual customization.
