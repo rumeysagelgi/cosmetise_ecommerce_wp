@@ -1,6 +1,7 @@
 # COSMETISE
 
 ## Demonstration Video:
+https://youtu.be/HLkbSo56i3M
 
 ## Description:
 COSMETISE is an e-commerce website where you can explore and purchase a wide range of beauty products. Customers can create an account, manage their orders, and share their feedback by rating and reviewing products. This project showcases both front-end and back-end skills for building a functional e-commerce platform.
