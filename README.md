@@ -10,12 +10,13 @@ COSMETISE is an e-commerce website where you can explore and purchase a wide ran
 -	User authentication
 -	User account and order management
 -	Product browsing and purchase
--	Product rating and reviewing
+-	Product rating and review
 -	Secure payment processing via Stripe
 -	Apple Pay available on Apple devices
 -	Customer support for confirmed orders
 -	Return and refund option
 -	Over 30+ plugins setup and maintenance
+-	Responsive UI/UX
 -	Unique brand name and logo
 -	Built on WordPress, powered by WooCommerce, core language is PHP
 
